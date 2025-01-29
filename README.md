@@ -1,4 +1,4 @@
-# Fixed_e-greedy-Algorithm-for-Multi-Armed-Bandit-Problem
+# Epsilon-Greedy Algorithm: Multi-Armed Bandit Problem
 
 OVERVIEW 
 
